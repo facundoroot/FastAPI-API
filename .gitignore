@@ -1,0 +1,4 @@
+__pycache__
+tut_env/
+.env
+postgres-data/
